@@ -1,10 +1,16 @@
-## Hi there 👋
+## Greetings, My name is Leonah.
+🎓 Bachelor of Science in Information Technology, class of 2026. 
 
-<!--
-**iYowna/iYowna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About Me</h3>
 
+My journey un this degree led me to develop a strong interest in cybersecurity, entrepreneurship, and business.
+
+I am primarily aligned with Governance, Risk, and Compliance (GRC) and interested in how cybersecurity can support business objectives and manage organizational risk.
+
+Currently, I am working on a project and writing a blog to document my learning and experiences. I am always open to learning, collaboration, and meaningful communication as I continue to grow in the field of cybersecurity.
 Here are some ideas to get you started:
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
